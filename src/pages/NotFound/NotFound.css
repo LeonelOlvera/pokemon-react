@@ -1,0 +1,25 @@
+
+.not-found div {
+    display: flex;
+    width: 70%;
+    height: 100'''%;
+    flex-wrap: wrap;
+    gap: 20px;
+    border: 1px solid darkgreen;
+}
+
+.not-found h2 {    
+    display: flex;
+    flex-wrap: wrap;
+    /* width: 70%; */
+    border-radius: 10px;
+    gap: 20px;
+    border: 1px solid darkred;
+}
+
+
+.not-found p {
+    border: 1px solid darkgoldenrod;
+    font-size: 30px;
+    background-position: center center;
+}

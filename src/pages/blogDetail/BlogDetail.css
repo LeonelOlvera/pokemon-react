@@ -1,0 +1,39 @@
+
+.blog-details h2 {
+    text-align: center;
+    font-size: 20px;
+    color: var(--color-aplication);
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.blog-details div {
+    margin: 10px 10px;
+    width: 90%;
+    height: auto;
+    padding: 5px;
+    /* border: 1px solid #EFFAF8; */
+    background: #EFFAF8;
+    border-radius: 8px;
+}
+
+.blog-details button {
+    background-color: var(--color-aplication);
+    color: white;
+    border: 0;
+    padding: 8px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.blog-details p {
+    text-align: center;
+    font-size: 20px;
+}
+
+.blog-details article {
+    position: relative;
+    padding: 10%;
+    background: #EFFAF8;
+    border-radius: 8px;
+}
